@@ -8,7 +8,7 @@ GEOGRAPHIC COVERAGE: Italy
   
 TRANSCRIPTION CONTEXT: This information has been transcribed while at the Max Planck Institute for the History of Science, Berlin  
 TRANSCRIBER: Wilko Graf von Hardenberg, wilko.hardenberg@gmail.com, @wilkohardenberg  
-DATE OF TRANSCRIPTION: 2015/010/08  
+DATE OF TRANSCRIPTION: 2015/10/08  
 
 ARCHIVE: N/A  
 LOCATION IN ARCHIVE: N/A  
