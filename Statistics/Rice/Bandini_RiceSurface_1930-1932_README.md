@@ -1,6 +1,6 @@
 CONTENT: Surfaces cultivated with rice in hectares, 1930-1932  
   
-FORMAT: File is a comma separated text file (semicolons), originally created with Excel, checked and corrected with LibreOffice.   
+FORMAT: File is a comma separated text file, originally created with Excel, checked and corrected with LibreOffice.   
 RELATED DATA FILES: none  
 HEADERS: in English  
   

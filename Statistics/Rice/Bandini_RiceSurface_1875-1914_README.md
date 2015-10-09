@@ -1,6 +1,6 @@
 CONTENT: Surfaces cultivated with rice in hectares, 1875-1914  
   
-FORMAT: File is a comma separated text file (semicolons), originally created with Excel, checked and corrected with gEdit.   
+FORMAT: File is a comma separated text file, originally created with Excel, checked and corrected with gEdit.   
 RELATED DATA FILES: none  
 HEADERS: in English  
   
